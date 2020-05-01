@@ -1,0 +1,413 @@
+
+ *{
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+ }
+ 
+ .menu{
+    background-color: slateblue;
+    position: relative;
+    height: 40px;
+    
+
+}
+.menu li{
+    display: inline-block;
+}
+.contact{
+    position: relative;
+    left: 350px;
+    bottom: 35px;
+    color: whitesmoke;
+}
+.heading{
+   position: relative; 
+   left:1000px;
+   bottom: 50px;
+   color: whitesmoke;
+}
+span{
+    position: relative;
+    left: 500px;
+    bottom: 50px;
+    text-decoration-color: slateblue;
+     
+}
+.soomro{
+    position: relative;
+    left: 1000px;
+    bottom: 48px;
+}
+#soomro{
+    position: relative;
+    left: 450px;
+    bottom: 30px;
+
+}
+.mobile{
+    margin: 10px;
+    padding: 20px;
+}
+
+.paragraph{
+    background-color: slateblue;
+    color: white;
+    text-indent: 100px;
+}
+.shoaib{
+    text-align: center;
+    height: 600px;
+    width: 1300px;
+    margin: 15px;
+    padding: 15px;
+
+}
+.shoaib h3{
+    padding: 20px;
+    font-family: 'Changa', sans-serif;
+}
+.shoaib h1{
+    color:slateblue;
+    font-family: 'Bungee Inline', cursive;
+}
+
+
+.mein{
+    background-color: slateblue;
+    position: relative;
+    top:300px;
+
+}
+.mein img{
+    position: relative;
+    left: 30px;
+    
+}
+.mein h3{
+    color: white;
+    position: relative;
+    left: 30px;
+}
+.mein h2{
+    position: relative;
+    left: 120px;
+    color: white;
+}
+#mein{
+    position: relative;
+    left: 400px;
+    bottom: 5px;
+    color: white;
+}
+#mein h2{
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+}
+.Apple{
+    position: relative;
+    left: 750px;
+    bottom: 300px;
+    color: white;
+
+}
+.Apple h2{
+    position: relative;
+    left: 90px;
+    top: 10px;
+}
+.Apple h3{
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+#dool{
+    position: relative;
+    left: 1100px;
+    bottom: 595px;
+    color: white;
+
+}
+#dool h2{
+    position: relative;
+    left: 80px;
+    
+}
+.TAHIR{
+    position: relative;
+    bottom: 480px;
+    left: 530px;
+    color: slateblue;
+    word-spacing: 5px;
+}
+.TAHIR h2{
+    position: relative;
+    top: 20px;
+    left: 140px;
+    color: greenyellow;
+}
+#online{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    box-sizing: border-box;
+    position: relative;
+    left:100px;
+    bottom: 400px;
+    text-align: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 10%;
+
+}
+#online h3{
+    position: relative;
+    right: 10px;
+    color: slateblue;
+    top: 5px;
+
+}
+.pan{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 500px;
+    bottom:600px;
+    color: slateblue;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10%;
+}
+
+.laptop{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 900px;
+    bottom: 800px;
+    border-radius: 10%;
+    text-align: center;
+    padding: 30px;
+    color: slateblue;
+}
+.container2{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 100px;
+    bottom: 750px;
+    text-align: center;
+    padding: 30px;
+    color: slateblue ;
+    border-radius: 10%;
+}
+.solangi{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 500px;
+    bottom: 950px;
+    text-align: center;
+    padding: 30px;
+    color: slateblue;
+    border-radius: 10%;
+    text-align: center;
+
+
+
+}
+.moved{
+    background-color: #eee;
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 900px;
+    bottom: 1150px;
+    text-align: center;
+    padding: 30px;
+    color: slateblue;
+    border-radius: 10%;
+    text-align: center;
+}
+.glass{
+    position: relative;
+    left: 100px;
+    bottom: 1000px ;
+    color:slateblue ;
+}
+
+.glass h2{
+    position: relative ;
+    left: 850px;
+    bottom: 30px;
+    
+}
+.haveing{
+    background-color: #eee;
+    height: 60px;
+width: 350px;
+text-indent: 50px;
+position: relative;
+left: 100px;
+bottom: 900px;
+color: slateblue;
+padding: 7px;
+}
+.banking{
+    background-color: #eee;
+    height: 60px;
+width: 350px;
+text-indent: 50px;
+position: relative;
+left: 500px;
+bottom: 960px;
+color: slateblue;
+padding: 7px;
+
+}
+.usbing{
+    background-color: #eee;
+    height: 60px;
+width: 350px;
+text-indent: 50px;
+position: relative;
+left: 100px;
+bottom: 900px;
+color: slateblue;
+padding: 7px;
+}
+.tharparkar{
+    background-color: #eee;
+    height: 60px;
+width: 350px;
+text-indent: 50px;
+position: relative;
+left: 500px;
+bottom: 960px;
+color: slateblue;
+padding: 7px;
+}
+
+.parag{
+    position: relative;
+    left: 950px;
+    bottom: 1200px ;
+    height: 300px;
+    width: 300px;
+    background-color: #eee;
+
+}
+.image{
+    color: slateblue;
+    position: relative;
+    left: 500px;
+    bottom: 1200px;
+}
+.image h2{
+    color: greenyellow;
+    position: relative;
+    right: 380px;
+    top: 17px;
+}
+.image h3{
+    position: relative;
+    left: 100px;
+    color: greenyellow;
+}
+.remote{
+    position: relative;
+    left: 77px;
+    bottom: 1100px;
+}
+.plain{
+    position: relative;
+    left: 313px;
+    bottom: 1255px;
+
+}
+.copys{
+    position: relative;
+    left: 550px;
+    bottom: 1410px;
+
+}
+.kingkhan{
+
+    position: relative;
+    left: 790px;
+    bottom: 1570px;
+
+}
+.lovely{
+    position: relative;
+    left: 1030px;
+    bottom: 1725px;
+
+}
+.boxing{
+    background-color: rgb(48, 45, 45);
+    color: white;
+    height: 300px;
+    position: relative;
+    bottom: 1600px;
+}
+.yellow{
+    position: relative;
+    left: 700px;
+    padding: 50px; 
+    text-decoration: underline;
+}
+.yellow h3{
+    position: relative;
+    left: 200px;
+}
+.baking{
+    position: relative; 
+    left: 985px;
+    bottom: 30px;
+}
+.baking li{
+    display: inline-block;
+}
+.green{
+    position: relative;
+    bottom: 50ox;
+    margin: 50px;
+}
+.green img{
+    display: inline-block;
+}
+.green p{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+}
+.bluered{
+    background-color: slateblue;
+    height: 50px;
+    position: relative;
+    bottom: 100px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
